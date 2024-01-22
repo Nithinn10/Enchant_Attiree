@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795475133537",
+    "project_id": "enchantattire-91816",
+    "storage_bucket": "enchantattire-91816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795475133537:android:10e1e5693963f11a72d620",
+        "android_client_info": {
+          "package_name": "com.example.enchant_attire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuqq_kPNTFFiTpWJKjX76e8AZWJsrNnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
